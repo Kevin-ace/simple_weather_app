@@ -2,6 +2,8 @@
 
 A simple weather application that allows users to search for weather information by city name. The app fetches data from the OpenWeatherMap API and displays the current temperature, humidity, and weather description. Users can also toggle between Celsius and Fahrenheit.
 
+You can see and test the preview here : https://kevin-ace.github.io/simple_weather_app/
+
 ## Features
 
 - Search for weather information by city name.
@@ -27,7 +29,7 @@ A simple weather application that allows users to search for weather information
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/Kevin-ace/weather-app.git
    ```
 2. Navigate to the project directory:
    ```bash
